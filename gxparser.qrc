@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file>images/gxp.png</file>
+        <file>images/euracelogo.png</file>
+    </qresource>
+</RCC>
